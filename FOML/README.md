@@ -1,4 +1,4 @@
-# P.R.I.S.M - P
+# P.R.I.S.M - Predictive Recognition of Individuals Sanguine Markers
 ## Fingerprint-Based Blood Group Prediction System
 
 ## Description
