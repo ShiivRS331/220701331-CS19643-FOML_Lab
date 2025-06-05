@@ -1,4 +1,5 @@
-# Fingerprint-Based Blood Group Prediction System
+# P.R.I.S.M - P
+## Fingerprint-Based Blood Group Prediction System
 
 ## Description
 
